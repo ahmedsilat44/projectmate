@@ -25,16 +25,16 @@ export const appRoutes = [
   {
     title: 'Discord',
     url: 'https://discord.com/invite/FQtyMWFZQ9',
-    Icon: TbBrandDiscord,
+    Icon: FaDiscord,
     anchorTagProps: {
       target: '_blank',
       rel: 'noreferrer',
     },
   },
   {
-    title: 'GitHub',
+    title: '',
     url: 'https://github.com/rohitdasu/projectmate',
-    Icon: TbBrandGithub,
+    Icon: FaGithub,
     anchorTagProps: {
       target: '_blank',
       rel: 'noreferrer',
